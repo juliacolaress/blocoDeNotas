@@ -73,3 +73,16 @@ p {
 #btnSalvarNotas {
     background: linear-gradient(135deg, #c084fc, #a78bfa);
 }
+/* Cores padrão do textarea */
+#blocoDeNotas {
+    background-color: #ffffff;
+    color: #333;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Classe que troca o fundo para um tom escuro */
+.fundo-escuro {
+    background: #7214ee;
+    color-text: #f0e6f6;
+}
+
